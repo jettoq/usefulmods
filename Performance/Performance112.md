@@ -32,6 +32,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Tick Dynamic](https://www.curseforge.com/minecraft/mc-mods/tick-dynamic) | Unknown | Attempts to keep the server at 20tps by dynamically limiting the amount of entities and tile-entities that update per tick | The_Fireplace / wildex999 | Server | none |
 | [Tiquality](https://www.curseforge.com/minecraft/mc-mods/tiquality) | Unknown | Limiting a player's tick time in the world to evenly distribute time. | Terminator_NL | Server | none |
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | Mods using outdated mixin versions[¹](https://github.com/NordicGamerFE/usefulmods/tree/main#-should-work-if-mixin-0-7-0-8-compatibility-is-applied) | VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft | Runemoro (Dimensional Development) | Both | none |
+| [Nothirium](https://www.curseforge.com/minecraft/mc-mods/nothirium) | Unknown | Nothirium is a client-side only mod that changes Minecraft's chunk rendering engine to use modern OpenGL which greatly increases performance. This mod is similar to Sodium but this is not a port of Sodium. | meldexun | Client | none |
 
 ## Legacy Fabric 1.12.X
 
